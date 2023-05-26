@@ -1,5 +1,3 @@
-![logo](https://github.com/NoOb-CodEr786/NoOb-CodEr786/blob/main/gb.png)
-
 <h1 align="center">Hi 👋, I'm Surya Pratap Sahu</h1>
 <h4 align="center">A Web Developer and A Data Science enthusiast</h4>
 
@@ -19,8 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NoOb-CodEr786&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NoOb-CodEr786&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NoOb-CodEr786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=NoOb-CodEr786&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
