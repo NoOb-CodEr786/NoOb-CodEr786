@@ -1,4 +1,4 @@
-![logo](https://github.com/NoOb-CodEr786/NoOb-CodEr786/blob/main/GitHub%20Banner.png)
+![logo](https://github.com/NoOb-CodEr786/NoOb-CodEr786/blob/main/gb.png)
 
 <h1 align="center">Hi 👋, I'm Surya Pratap Sahu</h1>
 <h4 align="center">A Web Developer and A Data Science enthusiast</h4>
