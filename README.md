@@ -6,6 +6,8 @@
 # 💫 About Me:
 👋 Hi, I’m Surya Pratap Sahu, a Web Developer and a Data Science enthusiast<br>🎓 I am a student of CSE(Ds) at GIET University, Gunupur, Rayagada, Odisha, India<br>👀 I’m interested in Coding, Data Science, Web Development and Graphics Designing<br>🌱 I’m currently learning React and Python libraries for Data Science<br>💬 Ask me about on HTML, CSS, JavaScript, Python and IoT<br>💞️ I’m looking to collaborate on Data Science and Web Development<br>📫 How to reach me suryapratapsahu018@gmail.com
 
+[![](https://visitcount.itsvg.in/api?id=NoOb-CodEr786&icon=6&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Surya#799) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100069818416330) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/su._.r._.ya._310) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/surya-pratap-sahu-6071a2238) 
 
@@ -30,6 +32,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/> -->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=NoOb-CodEr786&icon=6&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
